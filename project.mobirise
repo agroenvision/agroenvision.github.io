@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "find.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2792,7 +2792,7 @@
         }
       ]
     },
-    "cropadvi.html": {
+    "find.html": {
       "settings": {
         "meta_descr": "Our findings & crop Advisory",
         "title": "cropadvisory",
